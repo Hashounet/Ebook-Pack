@@ -1,5 +1,5 @@
 # Ebook-Pack 📚
-<p> Un pack de plusieurs Ebook à **vôtre** disposition </p>
+<p> Un pack de plusieurs Ebook à vôtre disposition </p>
 <br>
 <a href="https://discord.gg/candybay">Rejoindre mon serveur !</a>
 
